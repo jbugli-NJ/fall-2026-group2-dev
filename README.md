@@ -1,2 +1,6 @@
 # fall-2026-group2-dev
-Placeholder repository for capstone group 2 to iron out setup ahead of the finalized proposal
+Placeholder repository for capstone group 2 to iron out setup ahead of the finalized proposal.
+
+## Project setup and layout.
+
+All Python code sits under `src/`.
