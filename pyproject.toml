@@ -14,6 +14,7 @@ fall-2026-group2-dev = "fall_2026_group2_dev:main"
 
 [project.optional-dependencies]
 test = [
+    "pyright>=1.1.411",
     "pytest>=9.1.1",
 ]
 
